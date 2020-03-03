@@ -26,7 +26,7 @@ Function Update-Ssn {
                     # add a space after our word
                     $new += " "
                 }
-                Add-Content -Path $OutputFile -Value $new
+                Add-Content -Path $OutputFile -Value $new.TrimEnd()
             }
         }
         else {
