@@ -1,0 +1,13 @@
+This is my SSN XXX-XX-XXXX 
+XXX-XX-XXXX is my SSN 
+XXX-XX-XXXX 
+5-5-5-5-5-5 does this match? 
+XXX-XX-XXXX 
+XXX-XX-XXXX this should be a bunch of X's hehe 
+aaa-aa-aaaa  
+444.44.4444 
+444-44-444A 
+This has no replacements xxx-xx-xx 
+----------- 
+"""""""""""" 
+<script>alert(1);</script> 
